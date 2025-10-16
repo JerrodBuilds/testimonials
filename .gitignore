@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Flask-specific
+webassets-cache/
+
+# Editor/IDE specific files (optional)
+.vscode/
+.idea/
+
+# Operating System Files (optional)
+.DS_Store
+Thumbs.db
